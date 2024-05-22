@@ -1,4 +1,4 @@
-# Análise Exploratória de Dados (EDA) do Dataset AdventureWorks
+# Análise exploratória de dados (EDA) do dataset AdventureWorks
 
 ## Introdução
 
